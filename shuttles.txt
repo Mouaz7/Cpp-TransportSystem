@@ -1,0 +1,10 @@
+S01,School,07:10am,Small
+S02,School,07:20am,Premium
+S06,SportCenter,09:15am,Premium
+S13,Cinema,05:00pm,Small
+S14,Cinema,05:10pm,Family
+S19,PostOffice,05:10pm,Premium
+S25,Cinema,05:10pm,Family
+S26,Cinema,05:15pm,Small
+S37,Residential_01,09:30pm,Family
+S48,Residential_04,11:59pm,Small
